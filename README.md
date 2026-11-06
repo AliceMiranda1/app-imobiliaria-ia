@@ -81,6 +81,12 @@ A aplicação conecta compradores, inquilinos, corretores e anunciantes em um ec
 
 ---
 
+## 🔒 Confidencialidade e Propriedade Intelectual
+
+> **Nota:** Por questões de confidencialidade corporativa e proteção de dados/propriedade intelectual, o código-fonte integral e os datasets utilizados não estão públicos neste repositório. Este espaço destina-se exclusivamente à documentação da arquitetura técnica, conceitos de engenharia e resultados de pesquisa acadêmica/aplicada.
+
+---
+
 ## 👩‍💻 Autora
 
 **Alice Miranda** — *Estudante de Ciência da Computação na PUC Minas*  
