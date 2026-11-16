@@ -13,7 +13,7 @@ A Civitare Imóveis é um ecossistema digital para o mercado imobiliário, com u
 
 Os usuários consultam imóveis, visualizam detalhes e localização, salvam favoritos, cadastram anúncios e entram em contato com a imobiliária. O destaque é a **busca conversacional com IA**, que transforma uma descrição em linguagem natural em critérios estruturados de pesquisa.
 
-Os imóveis exibidos no ambiente de testes são dados fictícios, usados para desenvolvimento, validação e demonstração do funcionamento da plataforma.
+Os imóveis exibidos na versão demonstrativa são dados fictícios, usados para desenvolvimento, validação e demonstração do funcionamento da plataforma.
 
 #### Link do Site: [civitare.ia.br](https://civitare.ia.br)
 
