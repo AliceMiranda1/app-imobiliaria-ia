@@ -1,4 +1,4 @@
-# Civitare Imóveis: ecossistema imobiliário multiplataforma com busca por IA
+# Civitare Imóveis: Plataforma Imobiliária com Buscas por IA
 
 [![Google Play](https://img.shields.io/badge/Google_Play-Publicado-green?style=for-the-badge&logo=googleplay)](https://play.google.com/store)
 [![React Native](https://img.shields.io/badge/React_Native-Mobile-blue?style=for-the-badge&logo=react)](https://reactnative.dev/)
